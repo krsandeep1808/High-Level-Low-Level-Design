@@ -107,5 +107,3 @@ Enable users to upload documents (e.g., PDF), and ask natural language questions
   * Stream answers if using an LLM (e.g., OpenAI API).
 
 ---
-
-Would you like this HLD/LLD included in your documentation file as a separate section or exported as a PDF?
